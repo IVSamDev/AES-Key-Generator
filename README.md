@@ -19,7 +19,6 @@ A simple Python script to generate a random AES key of a given length.
 
    ```bash
    git clone https://github.com/IVSamDev/AES-Key-Generator.git
-   cd aes-key-generator
    ```
 2. Make sure you have Python 3.6+ installed:
 
